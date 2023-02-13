@@ -1,5 +1,8 @@
 package psi_11_o.m17b_fichatrabalho5;
-
+/**
+ * 
+ * @author Carlos Romao
+ */
 public class Ponto2D {
     private int x;
     private int y;
